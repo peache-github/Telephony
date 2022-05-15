@@ -1,3 +1,7 @@
+## 0.1.5
+* Updated to handle Flutter 3.0.0
+* Updated Gradle, Gradle Plugin, Kotlin plugin
+* 
 ## 0.1.4
 * Fix SmsType parsing (Contributor: https://github.com/Mabsten)
 * Remove SmsMethodCallHandler trailing comma.
